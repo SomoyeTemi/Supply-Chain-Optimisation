@@ -1,3 +1,3 @@
-# Supply-Chain-Optimisation
+# Optimizing Supply Chain Operations for Uniquexcel
 
-This is an excel project
+### An Excel-Based Business Analysis Case Study
