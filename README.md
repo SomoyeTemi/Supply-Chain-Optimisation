@@ -44,7 +44,7 @@ Excel was used for data analysis, visualisation, and dashboard creation to commu
 
 ## 5. Dashboard Preview
 
-![Uniquexcel Supply Chain Dashboard](dashboard.png)
+![Uniquexcel Supply Chain Dashboard](Dashboard.png)
 
 *Excel dashboard showing key supply chain performance metrics and operational insights.*
 
